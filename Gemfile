@@ -16,6 +16,7 @@ gem 'devise-bootstrap-views'
 gem 'bootstrap_form'
 gem 'jquery-rails'
 gem 'sass-rails'
+gem 'faker'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
